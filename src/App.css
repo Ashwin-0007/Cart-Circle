@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+.Shoping-Card{
+  justify-content: space-between;
+  padding: 6px 10px;
+  background-color: rgb(126, 217, 248);
+  font-style:oblique;
+  font-size: x-large;
+}
+.Items{
+
+  height: 50%;
+  width: 50%;
+}
+.product-item{
+  padding: 10px;
+}
+.container{
+  background-color: rgb(246, 229, 218);
+}
+.header-icon{
+  height: 35px;
+  width: 35px;
+}
+.btn{
+  background-color: palevioletred;
+  border-radius: 3px;
+  border-color: white;
+}
