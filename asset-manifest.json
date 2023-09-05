@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cart-Circle/static/css/main.c895070b.css",
+    "main.js": "/Cart-Circle/static/js/main.100cd50a.js",
+    "static/js/787.959c98f2.chunk.js": "/Cart-Circle/static/js/787.959c98f2.chunk.js",
+    "index.html": "/Cart-Circle/index.html",
+    "main.c895070b.css.map": "/Cart-Circle/static/css/main.c895070b.css.map",
+    "main.100cd50a.js.map": "/Cart-Circle/static/js/main.100cd50a.js.map",
+    "787.959c98f2.chunk.js.map": "/Cart-Circle/static/js/787.959c98f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c895070b.css",
+    "static/js/main.100cd50a.js"
+  ]
+}
